@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hamzone/ip.** Not for installation: use [Packagist](https://packagist.org/packages/hamzone/ip) or the [upstream repository](https://github.com/HamZone/flarum-ext-ip-addr).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hamzone-ip/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hamzone-ip/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-03-27 | `^1.2.0` | [Browse](https://github.com/flarchive/hamzone-ip/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/hamzone-ip.json](https://github.com/flarchive/archive-index/blob/main/packages/hamzone-ip.json)
 
